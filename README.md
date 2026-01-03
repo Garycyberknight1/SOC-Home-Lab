@@ -19,6 +19,7 @@ Developed an end-to-end SOC lab to master threat detection engineering. I integr
 
 - Wazuh (SIEM): Centralized security monitoring platform used for log aggregation, analysis, and alerting.
 - Suricata (IDS): Network Intrusion Detection System used to monitor and identify malicious network traffic via signature-based detection.
+- Shuffle: It uses SOAR features to automate the process during detecting and alerting.
 - Kali (Attacking VM): The offensive security platform used to perform adversary emulation and network reconnaissance.
 - Ubuntu (Victim VM): The primary endpoint host acting as the monitoring target, running the Wazuh Agent and Suricata sensor.
 - Nmap: Used for network discovery and security auditing to simulate port scanning and service enumeration attacks.
