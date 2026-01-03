@@ -1,4 +1,4 @@
-# SOC-Home-Lab
+# SOC-Automation
 
 ## Objective
 
